@@ -1,0 +1,13 @@
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\bin\Debug\netcoreapp3.1\HelloWorldTest.exe
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\bin\Debug\netcoreapp3.1\HelloWorldTest.deps.json
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\bin\Debug\netcoreapp3.1\HelloWorldTest.runtimeconfig.json
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\bin\Debug\netcoreapp3.1\HelloWorldTest.runtimeconfig.dev.json
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\bin\Debug\netcoreapp3.1\HelloWorldTest.dll
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\bin\Debug\netcoreapp3.1\HelloWorldTest.pdb
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.csprojAssemblyReference.cache
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.csproj.CoreCompileInputs.cache
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.AssemblyInfoInputs.cache
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.AssemblyInfo.cs
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.dll
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.pdb
+C:\Users\slurp\OneDrive\Documents\GitHub\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.genruntimeconfig.cache
