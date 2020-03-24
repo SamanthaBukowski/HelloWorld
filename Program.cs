@@ -6,7 +6,7 @@ namespace HelloWorldTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Wash Your Hands!");
+            Console.WriteLine("Samantha!");
             Console.WriteLine("Press key to exit.");
             Console.ReadKey();
         }
