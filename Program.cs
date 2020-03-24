@@ -6,8 +6,8 @@ namespace HelloWorldTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Samantha!");
-            Console.WriteLine("Press key to exit.");
+            Console.WriteLine("Samantha says Hello World!");
+            Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
         
